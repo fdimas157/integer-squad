@@ -1,4 +1,4 @@
-"integer squad"
+# INTEGER SQUAD
 
 Media sosial yang dibuat oleh PUB angkatan 20.
 tujuan dibuatnya media sosial ini adalah untuk
@@ -8,6 +8,6 @@ fitur :
 - posting
 - story
 - comment
-- like
+- like 
 
-# Hello world!
+![](wahyu.jpg)
