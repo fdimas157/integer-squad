@@ -10,7 +10,7 @@ fitur :
 - comment
 - like 
 
-![](abang.jpg)
+![](a.jpg)
 
 
 C Programming :
