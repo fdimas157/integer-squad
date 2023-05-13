@@ -10,4 +10,17 @@ fitur :
 - comment
 - like 
 
-![](wahyu.jpg)
+![](dajal.jpg)
+
+```c
+void main(){
+    printf("Hello world!");
+}
+```
+
+```java
+class Dimas{
+    public static void main(String args[]){
+        System.out.println("Hello world");
+    }
+}
