@@ -7,10 +7,10 @@ membantu seluruh rakyat Indonesia
 fitur :
 - posting
 - story
-- comment
+- comment(❁´◡`❁) (❁´◡`❁)  (❁´◡`❁)
 - like 
 
-![](a.jpg)
+![](abang.jpg)
 
 
 C Programming :
